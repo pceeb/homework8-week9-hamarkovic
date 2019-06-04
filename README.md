@@ -1,6 +1,10 @@
 ## Homework8 Week9
 
-You must submit a complete version of the program in this **repostiroy**. 
+You can run Point_Simplifier.rmd with the input Ridge5_test.csv. The output should be the same as Points5.csv.
+However, you will need the packages "deldir", "rgeos", "tidyverse", "graph", "sp", "PairViz", and "TSP".
+
+
+You must submit a complete version of the program in this **repository**. 
 It should take some input and give the desired output.
 This is due before next discussion section.
 
