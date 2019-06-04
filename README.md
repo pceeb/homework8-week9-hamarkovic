@@ -6,6 +6,10 @@ However, you will need the packages "deldir", "rgeos", "tidyverse", "graph", "sp
 In the image, orange pixels are the input, blue is after deldir/rgeos analysis, and green is the ouput, after TSP/PairViz.  
   
   
+  
+  
+  
+  
     
 You must submit a complete version of the program in this **repository**. 
 It should take some input and give the desired output.
